@@ -1,0 +1,6 @@
+framework module Pods_Spotify_6month {
+  umbrella header "Pods-Spotify-6month-umbrella.h"
+
+  export *
+  module * { export * }
+}

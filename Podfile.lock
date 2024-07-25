@@ -1,0 +1,28 @@
+PODS:
+  - IGListDiffKit (5.0.0)
+  - IGListKit (5.0.0):
+    - IGListDiffKit (= 5.0.0)
+  - KeychainSwift (24.0.0)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - IGListKit
+  - KeychainSwift
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - IGListDiffKit
+    - IGListKit
+    - KeychainSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  IGListDiffKit: 02d937d7e714d6f558771f284ed80668d483b522
+  IGListKit: baf7e87b4c2262cd569c380e46ca5667a4a82c82
+  KeychainSwift: 007c4647486e4563adca839cf02cef00deb3b670
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: b3327aa2a8f7307792f51fafa07dca33909bda2b
+
+COCOAPODS: 1.15.2
